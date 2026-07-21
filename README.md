@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I’m currently building creative websites, Shopify stores and digital projects<br><br>🤝 I’m open to collaborating on interesting web and creative projects<br><br>🌱 I’m currently learning C++ and OOP while improving my React skills<br><br>💬 Ask me about Shopify, AI tools and creative web projects<br><br>⚡ Fun fact: I learn new tools by building something with them
+🚀 I’m currently building creative websites, shopify stores and digital projects<br><br>🤝 I’m open to collaborating on interesting web and creative projects<br><br>🌱 I’m currently learning C++ and OOP while improving my React skills<br><br>💬 Ask me about Shopify, AI tools and creative web projects<br><br>⚡ Fun fact: I learn new tools by building something with them
 
 
 ## 🌐 Socials:
