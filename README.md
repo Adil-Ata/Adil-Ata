@@ -1,9 +1,12 @@
 <p align="center">
   <a href="https://github.com/Adil-Ata">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1178&text=Adil%20Ata%20%E2%9A%A1%20Build.%20Create.%20Explore." alt="Adil Ata ⚡ Build. Create. Explore." />
+    <img
+      src="https://capsule-render.vercel.app/api?type=venom&height=180&text=Adil%20Ata&fontSize=52&fontColor=ffffff&color=0:7F00FF,50:2ea043,100:00C9FF&stroke=ffffff&strokeWidth=1&animation=scaleIn&desc=Build.%20Create.%20Explore.%20%E2%9A%A1&descSize=18&descAlignY=70"
+      width="100%"
+      alt="Adil Ata"
+    />
   </a>
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=565&height=44&lines=Turning%20ideas%20into%20something%20real%20%E2%9C%A8;Web%20%E2%80%A2%20E-Commerce%20%E2%80%A2%20AI%20Builds" alt="Typing headlines" />
 </p>
