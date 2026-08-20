@@ -1,16 +1,10 @@
-<div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=42&duration=2200&pause=900&color=2EA043&center=true&vCenter=true&width=700&height=70&lines=ADIL+ATA+%E2%9A%A1"
-  alt="Adil Ata"
-/>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=27&duration=2600&pause=1100&color=E3B341&center=true&vCenter=true&width=650&height=45&lines=Build.+Create.+Explore.;Turning+ideas+into+something+real+%E2%9C%A8;Web+%E2%80%A2+E-Commerce+%E2%80%A2+AI-Assisted+Builds"
-  alt="Build Create Explore"
-/>
-
-</div>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Adil-Ata/Adil-Ata/main/hero.svg"
+    width="100%"
+    alt="Adil Ata Hero"
+  />
+</p>
 
 <div align="center">
 
