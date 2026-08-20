@@ -108,14 +108,14 @@ I build **websites, e-commerce projects and creative things with AI**. ✨
 </p>
 
 
-## 📈 Contribution Activity
+## 📈 Activity Overview
 
 <p align="center">
-<img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Adil-Ata&bg_color=00000000&color=2EA043&line=2EA043&point=E6EDF3&area=true&area_color=2EA043&hide_border=true&custom_title=Adil%20Ata's%20Contribution%20Graph"
-  alt="Contribution Graph"
-/>
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Adil-Ata&bg_color=00000000&color=8B949E&line=39D353&point=C9D1D9&area=true&area_color=238636&hide_border=true&hide_title=true&radius=10"
+    alt="Adil Ata GitHub Activity"
+  />
 </p>
 
 
