@@ -13,7 +13,7 @@
 </div>
 
 
-## 🚀 About Me
+## 💫 About Me
 
 <img
   align="right"
