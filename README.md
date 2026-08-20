@@ -119,15 +119,11 @@ I build **websites, e-commerce projects and creative things with AI**. ✨
 </p>
 
 
-## 🐍 Contribution Snake
+<div align="center">
 
-<p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adil-Ata/Adil-Ata/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adil-Ata/Adil-Ata/output/github-contribution-grid-snake.svg">
-<img width="100%" src="https://raw.githubusercontent.com/Adil-Ata/Adil-Ata/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
-</picture>
-</p>
+![Snake Animation](https://raw.githubusercontent.com/Adil-Ata/Adil-Ata/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 
 ## ⚡ A Little About Me
