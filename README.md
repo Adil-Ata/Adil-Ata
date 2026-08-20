@@ -21,11 +21,21 @@
 ## 💫 About Me
 
 <p align="center">
-  <img
-    width="260"
-    src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"
-    alt="Coding"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Adil-Ata/Adil-Ata/main/code2.gif"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Adil-Ata/Adil-Ata/main/code.gif"
+    >
+    <img
+      src="https://raw.githubusercontent.com/Adil-Ata/Adil-Ata/main/code2.gif"
+      width="420"
+      alt="Developer coding animation"
+    >
+  </picture>
 </p>
 
 I build **websites, e-commerce projects and creative things with AI**. ✨
@@ -39,7 +49,6 @@ I build **websites, e-commerce projects and creative things with AI**. ✨
 💬 Ask me about **building with AI, Shopify and AI visuals**
 
 🎓 **BS Computer Science student**
-
 <br clear="right">
 
 
