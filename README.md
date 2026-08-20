@@ -20,12 +20,13 @@
 
 ## 💫 About Me
 
-<img
-  align="right"
-  width="250"
-  src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"
-  alt="Coding"
-/>
+<p align="center">
+  <img
+    width="260"
+    src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"
+    alt="Coding"
+  />
+</p>
 
 I build **websites, e-commerce projects and creative things with AI**. ✨
 
@@ -125,18 +126,25 @@ I build **websites, e-commerce projects and creative things with AI**. ✨
 
 ## ⚡ A Little About Me
 
-<img
-  align="left"
-  height="135"
-  src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png"
-  alt="Octocat"
-/>
+<p align="center">
+  <img
+    height="125"
+    src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png"
+    alt="Octocat"
+  />
+</p>
 
-**Quiet at first, but once I'm comfortable, the jokes don't stop 😄**
+<p align="center">
+  <b>Quiet at first, but once I'm comfortable, the jokes don't stop 😄</b>
+</p>
 
-I enjoy learning new things and experimenting with ideas. ✨
+<p align="center">
+  I enjoy learning new things and experimenting with ideas. ✨
+</p>
 
-Sometimes I build something useful. Sometimes I build it simply because the idea looked fun. 🚀
+<p align="center">
+  Sometimes I build something useful. Sometimes I build it simply because the idea looked fun. 🚀
+</p>
 
 <br clear="left">
 
