@@ -12,6 +12,11 @@
 
 </div>
 
+<div align="center">
+
+![Snake Animation](https://raw.githubusercontent.com/Adil-Ata/Adil-Ata/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ## 💫 About Me
 
@@ -117,14 +122,6 @@ I build **websites, e-commerce projects and creative things with AI**. ✨
     alt="Adil Ata GitHub Activity"
   />
 </p>
-
-
-<div align="center">
-
-![Snake Animation](https://raw.githubusercontent.com/Adil-Ata/Adil-Ata/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
 
 ## ⚡ A Little About Me
 
